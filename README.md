@@ -290,19 +290,19 @@ please open an issue or PR with: paper title, authors, venue/arXiv link, and whi
 
 ## Citation
 
-If you use this taxonomy or corpus, please cite the survey:
+If you use this taxonomy or corpus, please cite the survey. **Status: submitted, under review — not yet accepted.** Use this preprint-style entry until a decision is reached, then replace it with the published `@article` version (journal, volume, pages, DOI):
 
 ```bibtex
-@article{nguyenhuu2026vlmensembles,
+@unpublished{nguyenhuu2026vlmensembles,
   title   = {From Architectural Synergy to Test-Time Scaling: A Survey of Intervention Timing in Vision-Language Model Ensembles},
   author  = {Nguyen Huu, Dat and Nguyen Minh, Duong and Hoang Ha, My},
-  journal = {Array},
+  note    = {Manuscript submitted for publication},
   year    = {2026},
-  note    = {Applied AI Lab, Phenikaa School of Computing, Phenikaa University}
+  institution = {Applied AI Lab, Phenikaa School of Computing, Phenikaa University}
 }
 ```
 
-*(Update volume/pages/DOI once the camera-ready is published.)*
+*(Swap to `@article` with `journal = {Array}` and the DOI only once the paper is formally accepted/published — not before.)*
 
 ---
 
