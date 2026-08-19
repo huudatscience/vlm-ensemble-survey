@@ -29,7 +29,7 @@ This repo tracks the 84 works classified under the survey's **Mode → Category 
 
 <!-- TODO: replace with the actual classification-diagram figure from the paper (e.g. Figure 2). -->
 <!-- Update the filename/path below once the real image is added to assets/. -->
-![VLM Ensembles taxonomy: Pillar → Mode → Category → Sub](assets/taxonomy_tree.pdf)
+![VLM Ensembles taxonomy: Pillar → Mode → Category → Sub](assets/taxonomy_tree.png)
 
 <details>
 <summary>Mermaid fallback (renders if the image above is missing)</summary>
