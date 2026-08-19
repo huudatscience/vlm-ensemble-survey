@@ -29,7 +29,7 @@ This repo tracks the 84 works classified under the survey's **Mode → Category 
 
 <!-- TODO: replace with the actual classification-diagram figure from the paper (e.g. Figure 2). -->
 <!-- Update the filename/path below once the real image is added to assets/. -->
-![VLM Ensembles taxonomy: Pillar → Mode → Category → Sub](assets/taxonomy.png)
+![VLM Ensembles taxonomy: Pillar → Mode → Category → Sub](assets/taxonomy_tree.pdf)
 
 <details>
 <summary>Mermaid fallback (renders if the image above is missing)</summary>
@@ -301,9 +301,6 @@ If you use this taxonomy or corpus, please cite the survey. **Status: submitted,
   institution = {Applied AI Lab, Phenikaa School of Computing, Phenikaa University}
 }
 ```
-
-*(Swap to `@article` with `journal = {Array}` and the DOI only once the paper is formally accepted/published — not before.)*
-
 ---
 
 ## License
